@@ -1,4 +1,4 @@
-import { getAnime } from '../../lib/toxicApi.js';
+import { getAnime } from '../../lib/frediApi.js';
 import { getFakeQuoted } from '../../lib/fakeQuoted.js';
 
 export default {
